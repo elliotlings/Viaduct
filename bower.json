@@ -1,5 +1,12 @@
 {
     "name" : "viaduct-css",
     "version" : "0.0.1",
+    "license" : "MIT",
+    "homepage" : "https://github.com/ViaductCSS/Viaduct",
+    "keywords": [
+        "viaductcss",
+        "oocss",
+        "css"
+      ],
     "dependencies" : []
 }
